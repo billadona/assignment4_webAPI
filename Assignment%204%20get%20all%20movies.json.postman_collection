@@ -1,0 +1,33 @@
+{
+	"id": "89c9104e-d81b-3f49-1464-1283fb5da5dc",
+	"name": "Assignment 4 get all movies",
+	"description": "",
+	"order": [
+		"6e1a68c0-e08b-f637-d2bb-dac9c627a2aa"
+	],
+	"folders": [],
+	"timestamp": 1460059564542,
+	"owner": "303547",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "6e1a68c0-e08b-f637-d2bb-dac9c627a2aa",
+			"headers": "",
+			"url": "http://billadona-test.apigee.net/sweetwawls/e57685da-fab6-11e5-bc83-6d1097735808/e5b1ba10-fab6-11e5-934e-7f81ba666cd8/movies",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1460059743854,
+			"name": "http://billadona-test.apigee.net/sweetwawls/e57685da-fab6-11e5-bc83-6d1097735808/e5b1ba10-fab6-11e5-934e-7f81ba666cd8/movies",
+			"description": "",
+			"collectionId": "89c9104e-d81b-3f49-1464-1283fb5da5dc",
+			"responses": []
+		}
+	]
+}

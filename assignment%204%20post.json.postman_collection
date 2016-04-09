@@ -1,0 +1,55 @@
+{
+	"id": "8121225a-fefc-14e3-6d3d-d236d72b8cfa",
+	"name": "assignment 4 post",
+	"description": "",
+	"order": [
+		"a1c8fb87-ebed-4245-753c-e5bd798c026d",
+		"258c4c64-bb0f-8fff-22f2-f3f54c7798b6"
+	],
+	"folders": [],
+	"timestamp": 1460134354018,
+	"owner": "303547",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "258c4c64-bb0f-8fff-22f2-f3f54c7798b6",
+			"headers": "",
+			"url": "http://billadona-test.apigee.net/sweetwawls/e57685da-fab6-11e5-bc83-6d1097735808/e5b1ba10-fab6-11e5-934e-7f81ba666cd8/movies{\"type\":\"movies\",\"name\":\"POSTMETHOD\",\"yearPublished\":\"justnow\",\"actors\":{\"actor1\":\"Me\",\"actor2\":\"Myself\",\"actor3\":\"I\"}}",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "8121225a-fefc-14e3-6d3d-d236d72b8cfa",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://billadona-test.apigee.net/sweetwawls/e57685da-fab6-11e5-bc83-6d1097735808/e5b1ba10-fab6-11e5-934e-7f81ba666cd8/movies{\"name\":\"POSTMETHOD\",\"type\":\"movies\"}",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1460135711658,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "a1c8fb87-ebed-4245-753c-e5bd798c026d",
+			"headers": "",
+			"url": "http://billadona-test.apigee.net/sweetwawls/e57685da-fab6-11e5-bc83-6d1097735808/e5b1ba10-fab6-11e5-934e-7f81ba666cd8/movies{\"type\":\"movies\",\"name\":\"POSTMETHOD\",\"yearPublished\":\"justnow\",\"actors\":{\"actor1\":\"Me\",\"actor2\":\"Myself\",\"actor3\":\"I\"}}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1460135702655,
+			"name": "http://billadona-test.apigee.net/sweetwawls/e57685da-fab6-11e5-bc83-6d1097735808/e5b1ba10-fab6-11e5-934e-7f81ba666cd8/movies{\"name\":\"POSTMETHOD\",\"type\":\"movies\"}",
+			"description": "",
+			"collectionId": "8121225a-fefc-14e3-6d3d-d236d72b8cfa",
+			"responses": []
+		}
+	]
+}
