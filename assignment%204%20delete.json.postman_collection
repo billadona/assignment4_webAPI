@@ -1,0 +1,35 @@
+{
+	"id": "98caf141-7180-5ab1-1ec4-213de2a60ac8",
+	"name": "assignment 4 delete",
+	"description": "",
+	"order": [
+		"cb87f016-8233-4c2b-afbc-c49b22b8faf3"
+	],
+	"folders": [],
+	"timestamp": 1460263465308,
+	"owner": 0,
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "cb87f016-8233-4c2b-afbc-c49b22b8faf3",
+			"headers": "",
+			"url": "http://billadona-test.apigee.net/sweetwawls/billadona/sandbox/movies?ql=name='Matrix'",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "DELETE",
+			"collectionId": "98caf141-7180-5ab1-1ec4-213de2a60ac8",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://billadona-test.apigee.net/sweetwawls/billadona/sandbox/movies?ql=name='Matrix'",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1460263469996,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
